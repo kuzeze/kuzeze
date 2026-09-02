@@ -2,7 +2,7 @@
 
 **Cornell BME ’29 · student researcher & builder**
 
-I build tools at the edge of health data, biology, and human-computer interaction.
+I build at the intersection of AI, XR, and brain-computer interfaces.
 
 [Portfolio](https://jeremyli.org) · [CV](https://jeremyli.org/cv.pdf) · [LinkedIn](https://www.linkedin.com/in/jeremy-li-60ba74251/)
 
@@ -23,4 +23,4 @@ I build tools at the edge of health data, biology, and human-computer interactio
 
 **[Piney](https://github.com/kuzeze/piney)** is a round, footless pineapple pet for Codex.
 
-Currently exploring health data, robotics, lab automation, and bio-AI.
+Current focus: AI, XR, and brain-computer interfaces.
